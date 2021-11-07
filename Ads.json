@@ -1,5 +1,5 @@
 {
-"installbtn" : false,
-"cpaoffers" : true,
+"installbtn" : true,
+"cpaoffers" : false,
 "LabelDescription" : true
 }
