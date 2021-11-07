@@ -1,4 +1,17 @@
 [{
+		"name": "Atum 2",
+		"description": "Atum 2 is a new desert dimension that can be reached by crafting a sandstone portal and tossing a scarab in a pool of water.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2019/04/portalA.png"
+	},
+	{
+		"name": "Traveler’s Backpack",
+		"description": "Traveler’s Backpack is a handy tool that adds about 45 extra inventory slots including tanks to hold liquids. All you need to do is craft it and either place it on the ground and hold shift while right-clicking it with an empty hand or hold the backpack in your hand, hit B and then press the button in the bottom left to wear it.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/08/backpack-1536x864.png"
+	},{
+		"name": "Incubation",
+		"description": "Incubation is a new way for easy egg collection. It adds simply a nest for the chickens to lay their eggs in instead of dropping them wherever they’re standing. They can be found naturally or crafted.",
+		"img": "https://www.minecraftmods.com/wp-content/uploads/2020/08/nest1-1536x864.png"
+	},{
 		"name": "Scuba Gear",
 		"description": "Scuba Gear is a fun mod that adds a full set of diving equipment that aids in better underwater performance. There are 4 pieces that can only be acquired by taking them from Drowned that spawn by Ocean Ruins.",
 		"img": "https://www.minecraftmods.com/wp-content/uploads/2021/05/drowned-armor-1536x864.png"
